@@ -1,2 +1,8 @@
-# kad-tranport-boilerplate
-a simple boilerplate for custom kad transport adapters
+Kad Transport Boilerplate
+=========================
+
+This is a simple boilerplate for building custom
+[kad](https://github.com/gordonwritescode/kad) transport adapters.
+
+For documentation on how transport adapters work see
+[kad's `RPC` documentation](https://github.com/gordonwritescode/kad/blob/master/doc/rpc.md)
