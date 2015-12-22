@@ -1,5 +1,5 @@
 {
-  "name": "kad-tranport-boilerplate",
+  "name": "kad-transport-boilerplate",
   "version": "1.0.0",
   "description": "a simple boilerplate for custom kad transport adapters",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gordonwritescode/kad-tranport-boilerplate.git"
+    "url": "git+https://github.com/gordonwritescode/kad-transport-boilerplate.git"
   },
   "keywords": [
     "kad",
@@ -18,9 +18,9 @@
   "author": "Gordon Hall <gordon@gordonwritescode.com>",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/gordonwritescode/kad-tranport-boilerplate/issues"
+    "url": "https://github.com/gordonwritescode/kad-transport-boilerplate/issues"
   },
-  "homepage": "https://github.com/gordonwritescode/kad-tranport-boilerplate#readme",
+  "homepage": "https://github.com/gordonwritescode/kad-transport-boilerplate#readme",
   "peerDependencies": {
     "kad": "^1.1.0-beta.3"
   }
