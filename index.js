@@ -1,8 +1,7 @@
 /**
- * @module kad-transport-boilerplate/custom-tranport
+ * @module kad-transport-chrome-udp
  */
 
-'use strict';
+'use strict'
 
-module.exports = require('./lib/transport');
-module.exports.Contact = require('./lib/contact');
+module.exports = require('./lib/transport')
